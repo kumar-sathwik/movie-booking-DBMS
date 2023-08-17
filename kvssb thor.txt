@@ -1,0 +1,15 @@
+This Ticket Being Generated as You Confirm
+
+Name    : kvssb
+
+Movie   : thor
+
+Location: KLCC
+
+Time    : 9PM-11PM
+
+Threator    : 3
+
+Seats   : [A-2, A-3]
+
+UniqueID: thor9PM-11PMKLCCkvssb
